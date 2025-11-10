@@ -1,3 +1,4 @@
+#include <Arduino.h>
 #include <Wire.h>
 
 // ==== ピン定義（自由に変更可能） ====
