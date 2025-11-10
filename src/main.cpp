@@ -6,7 +6,7 @@
 #define SCL_PIN 4
 
 // ==== MPU9250 定義 ====
-#define MPU9250_ADDR 0x68  // AD0=GND の場合
+#define MPU9250_ADDR 0x69  // AD0=GND の場合
 #define ACCEL_XOUT_H 0x3B
 
 void setup() {
